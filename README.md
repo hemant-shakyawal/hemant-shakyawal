@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Hemant Shakyawal</h1>
+  <h1>👋 Hi, I'm Hemant Kumar Shakyawal</h1>
   <p>Full Stack Developer | Tech Enthusiast | Problem Solver</p>
 
 </div>
