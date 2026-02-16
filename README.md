@@ -67,8 +67,9 @@ I specialize in architecting and developing enterprise-grade applications with a
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/hemant-shakyawal/hemant-shakyawal/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  <img src="https://raw.githubusercontent.com/hemant-shakyawal/hemant-shakyawal/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
