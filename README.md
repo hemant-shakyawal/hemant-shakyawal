@@ -1,6 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Hemant Kumar Shakyawal</h1>
   <p>Full Stack Developer | Tech Enthusiast | Problem Solver</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Senior+Full+Stack+Developer;Angular+%7C+.NET+%7C+AWS+Specialist;Building+Scalable+Enterprise+Applications;System+Design+%7C+Cloud+%7C+DevOps" />
 
 </div>
 
