@@ -1,0 +1,78 @@
+<div align="center">
+  <h1>👋 Hi, I'm Hemant Shakyawal</h1>
+  <p>Full Stack Developer | Tech Enthusiast | Problem Solver</p>
+
+  <!-- GitHub Profile Stats -->
+  <p align="center">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hemant-shakyawal&show_icons=true&theme=radical&include_all_commits=true" />
+    <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=hemant-shakyawal&theme=radical" />
+  </p>
+</div>
+
+---
+
+## 🚀 About Me
+
+👨‍💻 I'm a passionate Full Stack Developer with experience in building responsive, user-friendly web applications.  
+I enjoy solving complex problems, learning new technologies, and collaborating with teams to build software that matters.
+
+✨ I’m currently focused on:
+- Building scalable web applications
+- Improving coding skills and architectural knowledge
+- Contributing to open-source projects
+
+🌱 I’m learning:
+- Advanced System Design
+- Cloud Architecture (AWS / Azure / GCP)
+- CI/CD and DevOps
+
+📫 How to reach me:
+- Email: **your-email@example.com**
+- LinkedIn: https://linkedin.com/in/hemant-shakyawal
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+
+### 🛠️ Frameworks & Libraries
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+
+### 🧠 Tools
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+## 📂 Featured Projects
+
+### 🔭 Project Name 1
+**Short description:** What it does + tech used  
+🔗 Demo: https://yourprojectdemo.com  
+🛠️ Tech: Angular | Node.js | AWS
+
+---
+
+### 🔭 Project Name 2
+**Short description:** What it solves + tech used  
+🔗 GitHub: https://github.com/hemant-shakyawal/project2  
+🛠️ Tech: React | Express | MongoDB
+
+---
+
+## ✨ GitHub Stats
+
+```markdown
+🧠 More stats (optional cool card from GitHub-readme-stats)
