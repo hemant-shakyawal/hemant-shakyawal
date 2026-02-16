@@ -1,10 +1,6 @@
-<div align="center">
-  <h1>👋 Hi, I'm Hemant Kumar Shakyawal</h1>
-  <p>Full Stack Developer | Tech Enthusiast | Problem Solver</p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Senior+Full+Stack+Developer;Angular+%7C+.NET+%7C+AWS+Specialist;Building+Scalable+Enterprise+Applications;System+Design+%7C+Cloud+%7C+DevOps" />
-
-</div>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1E90FF&height=250&section=header&text=Hemant%20Shakyawal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" />
+</p>
 ---
 
 ## 🚀 About Me
