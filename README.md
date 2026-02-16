@@ -55,9 +55,5 @@ I enjoy solving complex problems, learning new technologies, and collaborating w
   </p>
 
 </div>
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/hemant-shakyawal/hemant-shakyawal/blob/output/github-contribution-grid-snake.svg?raw=true" />
-</p>
 
