@@ -22,8 +22,7 @@ I enjoy solving complex problems, learning new technologies, and collaborating w
 - CI/CD and DevOps
 
 📫 How to reach me:
-- Email: **your-email@example.com**
-- LinkedIn: https://linkedin.com/in/hemant-shakyawal
+- LinkedIn: https://linkedin.com/in/hemantkumarshakyawal
 
 ---
 
