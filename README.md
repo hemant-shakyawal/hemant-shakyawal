@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1E90FF&height=250&section=header&text=Hemant%20Kumar%20Shakyawal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" />
 </p>
 </div>  
----
+
 
 ## 🚀 About Me
 
@@ -55,5 +55,9 @@ I enjoy solving complex problems, learning new technologies, and collaborating w
   </p>
 
 </div>
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hemant-shakyawal/hemant-shakyawal/output/github-contribution-grid-snake.svg" />
+</p>
 
