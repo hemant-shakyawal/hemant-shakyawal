@@ -58,8 +58,8 @@ I specialize in architecting and developing enterprise-grade applications with a
 ## 📊 Engineering Metrics
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=hemant-shakyawal&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=hemant-shakyawal&theme=dark&hide_border=true" />
+  <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hemant-shakyawal&show_icons=true&theme=dark&hide_border=true" />
+  <img height="160px" src="https://streak-stats.demolab.com?user=hemant-shakyawal&theme=dark&hide_border=true" />
 </p>
 
 ---
