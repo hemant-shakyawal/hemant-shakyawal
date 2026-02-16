@@ -2,11 +2,6 @@
   <h1>👋 Hi, I'm Hemant Shakyawal</h1>
   <p>Full Stack Developer | Tech Enthusiast | Problem Solver</p>
 
-  <!-- GitHub Profile Stats -->
-  <p align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hemant-shakyawal&show_icons=true&theme=radical&include_all_commits=true" />
-    <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=hemant-shakyawal&theme=radical" />
-  </p>
 </div>
 
 ---
@@ -55,24 +50,12 @@ I enjoy solving complex problems, learning new technologies, and collaborating w
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 ---
+  <!-- GitHub Profile Stats -->
+  <div align="center">
+  <p align="center">
+      <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=hemant-shakyawal&theme=radical" />
+  </p>
 
-## 📂 Featured Projects
+</div>
 
-### 🔭 Project Name 1
-**Short description:** What it does + tech used  
-🔗 Demo: https://yourprojectdemo.com  
-🛠️ Tech: Angular | Node.js | AWS
 
----
-
-### 🔭 Project Name 2
-**Short description:** What it solves + tech used  
-🔗 GitHub: https://github.com/hemant-shakyawal/project2  
-🛠️ Tech: React | Express | MongoDB
-
----
-
-## ✨ GitHub Stats
-
-```markdown
-🧠 More stats (optional cool card from GitHub-readme-stats)
